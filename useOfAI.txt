@@ -1,0 +1,203 @@
+At this point in the project I wanted to replace the placeholder 
+content on the site with real content so I used AI to help me generate that
+
+
+
+TEXT PROMPTS
+
+
+One Conversation with ChatGPT. Went as follows
+
+Prompt: Write a short paragraph about what Tarot is
+Response: 
+Tarot is a deck of illustrated cards used for divination, self-reflection, and storytelling. Originating in 15th-century Europe as a card game, it evolved into a tool for spiritual guidance and insight. A typical Tarot deck consists of 78 cards divided into the Major Arcana, representing significant life themes, and the Minor Arcana, which reflects everyday experiences. Readers interpret the symbolism, imagery, and positions of the cards to explore questions about the past, present, and future, helping individuals gain clarity and perspective on personal or spiritual matters.
+
+
+Prompt: Write a short paragraph about the Sun Tarot card
+Response: 
+The Sun Tarot card is one of the most positive and joyful cards in the deck, symbolizing success, vitality, and optimism. Depicted with a radiant sun shining above, it often features a child riding a white horse, representing innocence, freedom, and pure happiness. When the Sun appears in a reading, it suggests clarity, warmth, and the triumph of truth, signaling a time of growth, confidence, and good fortune. It encourages embracing life with enthusiasm and trusting that challenges will give way to brighter days.
+
+
+Prompt: Write a short paragraph about the Moon Tarot card
+Response: 
+The Moon Tarot card represents illusion, intuition, and the hidden depths of the subconscious mind. Its imagery often shows a glowing moon illuminating a shadowy path, with animals like a dog and a wolf symbolizing the tension between tame and wild instincts. When the Moon appears in a reading, it suggests uncertainty, confusion, or deceptive situations, urging you to look beyond appearances and trust your inner voice. It can also signal vivid dreams, heightened emotions, and the need to navigate through fears to find truth and clarity.
+
+
+Prompt: Write a short paragraph about the Chariot Tarot card
+Response: 
+The Chariot Tarot card symbolizes determination, willpower, and victory through focused effort. Often depicted as a figure riding a chariot pulled by two contrasting creatures, it represents the balance and control needed to steer opposing forces toward a single goal. When the Chariot appears in a reading, it suggests overcoming obstacles, asserting confidence, and moving forward with purpose. It’s a powerful sign of progress and triumph, encouraging you to harness your inner strength and stay committed to your path.
+
+
+Prompt: Can you do the same for the remaining major arcana cards? 
+Response:
+0 — The Fool
+The Fool represents new beginnings, adventure, and taking a leap of faith. Depicted as a carefree traveler on the edge of a cliff, it symbolizes innocence, spontaneity, and trust in the journey ahead. When the Fool appears, it suggests embracing change, exploring the unknown, and remaining open to life’s surprises, even if the path isn’t fully clear.
+
+I — The Magician
+The Magician signifies manifestation, resourcefulness, and the power to transform ideas into reality. Shown with tools representing all four suits, he channels divine energy into action. This card urges you to use your skills and talents to create your desired outcomes, reminding you that you have all you need to succeed.
+
+II — The High Priestess
+The High Priestess embodies intuition, mystery, and hidden knowledge. She sits between two pillars, guarding secrets and spiritual wisdom. When she appears, she encourages you to trust your instincts, seek inner guidance, and be patient, as not everything is meant to be revealed immediately.
+
+III — The Empress
+The Empress radiates fertility, creativity, and nurturing energy. Surrounded by lush nature, she represents abundance, sensuality, and the beauty of life. Her presence in a reading suggests growth, comfort, and the importance of connecting with nature or creative pursuits.
+
+IV — The Emperor
+The Emperor represents authority, structure, and stability. Depicted as a powerful ruler on his throne, he symbolizes leadership, discipline, and protection. When this card appears, it often signals a need for order, clear boundaries, and decisive action in your life.
+
+V — The Hierophant
+The Hierophant stands for tradition, spiritual wisdom, and learning. Often shown as a religious figure, he represents institutions, rituals, and shared beliefs. This card suggests seeking guidance from established systems or mentors, and honoring values or customs that provide meaning.
+
+VI — The Lovers
+The Lovers symbolize connection, choices, and harmony in relationships. Depicted as a couple blessed by an angel, the card signifies deep bonds, mutual respect, and alignment of values. It can also point to significant decisions requiring careful consideration of your heart and ethics.
+
+VII — The Chariot
+(Already covered previously!)
+
+VIII — Strength
+Strength embodies courage, compassion, and inner resilience. Shown as a woman gently taming a lion, it signifies mastery over raw emotions and the power of gentle influence. When Strength appears, it encourages patience, kindness, and confidence in overcoming challenges.
+
+IX — The Hermit
+The Hermit represents solitude, inner wisdom, and spiritual searching. Holding a lantern to light his way, he symbolizes introspection and guidance found within. This card suggests taking time for reflection, seeking answers in silence, and embracing personal truth.
+
+X — The Wheel of Fortune
+The Wheel of Fortune signifies change, fate, and cycles of life. Often shown as a giant wheel with creatures representing different forces, it reflects life’s ups and downs. Its appearance indicates a turning point, unexpected events, or the influence of destiny, urging flexibility and faith.
+
+XI — Justice
+Justice symbolizes fairness, truth, and accountability. Depicted with scales and a sword, she calls for honesty, balanced judgment, and ethical choices. When Justice appears, it suggests legal matters, decisions requiring objectivity, or the need to act with integrity.
+
+XII — The Hanged Man
+The Hanged Man represents suspension, surrender, and new perspectives. Hanging upside down, he sees the world differently, symbolizing letting go and gaining insight through patience. This card advises pausing, reevaluating, and accepting temporary delays as part of growth.
+
+XIII — Death
+Death signifies transformation, endings, and new beginnings—not literal death but powerful change. Depicted as a skeletal figure, it signals clearing away the old to make room for the new. When Death appears, it suggests release, closure, and the start of a fresh chapter.
+
+XIV — Temperance
+Temperance represents balance, moderation, and harmony. Shown blending water between two cups, it symbolizes blending opposites and finding middle ground. This card advises patience, cooperation, and a calm, measured approach to life’s challenges.
+
+XV — The Devil
+The Devil embodies temptation, bondage, and material attachments. Depicted as a horned figure with chained individuals, it suggests feeling trapped by unhealthy desires or habits. When the Devil appears, it calls for awareness of what limits your freedom and urges reclaiming personal power.
+
+XVI — The Tower
+The Tower signifies sudden upheaval, chaos, and revelation. Lightning strikes a tall tower, representing destruction of false structures and dramatic change. Though alarming, it ultimately leads to clarity and rebuilding on a stronger foundation.
+
+XVII — The Star
+The Star radiates hope, inspiration, and spiritual renewal. Depicted pouring water under a starlit sky, it symbolizes healing, faith, and a sense of peace after turmoil. When the Star appears, it brings encouragement, optimism, and a reminder to stay true to your dreams.
+
+XVIII — The Moon
+(Already covered previously!)
+
+XIX — The Sun
+(Already covered previously!)
+
+XX — Judgment
+Judgment represents awakening, forgiveness, and transformation. Often shown as figures rising from graves at the sound of an angel’s trumpet, it symbolizes rebirth and life-changing realizations. This card calls for self-evaluation, letting go of guilt, and embracing a new purpose.
+
+XXI — The World
+The World signifies completion, fulfillment, and unity. Depicted as a dancing figure surrounded by a laurel wreath, it represents reaching a significant milestone or goal. When the World appears, it suggests success, wholeness, and a sense of accomplishment, readying you for a new cycle.
+
+
+Can you write me a short blurb on each of the minor arcana suits? 
+Response:
+🌿 Suit of Wands
+The Suit of Wands pulses with vibrant energy and symbolizes the element of Fire. It’s associated with creativity, inspiration, and the spark of ambition that drives us to pursue our goals. Wands often appear in readings when we’re starting new ventures, exploring ideas, or feeling the urge to take bold action. They can represent enthusiasm, courage, and the desire to make things happen, but they can also hint at impatience, impulsiveness, or burning out too quickly. In essence, the Wands capture the passionate, restless side of human nature—the force that pushes us to grow, create, and transform our lives.
+
+💧 Suit of Cups
+The Suit of Cups is tied to the element of Water and delves into the realm of emotions, intuition, and relationships. These cards speak of love, compassion, joy, sorrow, and the subtle currents of feeling that shape our experiences. Cups reveal how we connect to others and to ourselves on an emotional level, exploring intimacy, empathy, and the depths of the subconscious. They can signify romance, friendship, artistic expression, and spiritual insight. However, they also warn of emotional overwhelm, illusions, or escapism. Ultimately, the Suit of Cups invites us to honor our feelings and navigate the ebb and flow of the heart’s tides.
+
+⚔️ Suit of Swords
+Ruled by the element of Air, the Suit of Swords is the domain of the intellect, truth, and communication. Swords represent our thoughts, beliefs, and the mental challenges we face. They’re associated with logic, clarity, decision-making, and sometimes conflict or struggle. Swords cut through confusion and demand honesty, even when the truth is uncomfortable. These cards can signal tension, arguments, anxiety, or the need to stand up for justice. Yet they also bring insight, breakthroughs, and mental fortitude. The Suit of Swords reminds us that while the mind is powerful, it must be wielded wisely to avoid harm—both to ourselves and others.
+
+💰 Suit of Pentacles
+The Suit of Pentacles embodies the element of Earth and deals with the material and physical aspects of life. It concerns money, career, health, home, and the tangible rewards of effort and skill. Pentacles are about building security, stability, and practical success. They reflect hard work, resourcefulness, and our connection to nature and the physical world. While often linked to wealth and prosperity, Pentacles also touch on themes of generosity, sustainability, and how we value our resources. Challenges in this suit can signal financial stress, stagnation, or neglecting one’s physical or material needs. At its core, the Suit of Pentacles urges us to cultivate balance between material pursuits and deeper fulfillment.
+
+
+Now can you write a short blurb on How to read tarot cards?
+Reading tarot cards is part intuition, part symbolism, and part storytelling. Each card carries unique meanings, imagery, and associations, but your personal impressions and the context of your question are equally important. Start by familiarizing yourself with the Major and Minor Arcana, then practice simple spreads, like a one-card pull or the three-card spread (past, present, future). Trust your instincts and let the cards guide your reflections rather than searching for rigid predictions. Over time, you’ll develop your own relationship with the deck and find deeper insights in each reading.
+
+How can I write a css media query for a 400% zoomed in screen? 
+Response:
+CSS media queries don't directly support zoom levels (like "400% zoom"), because zoom is typically a browser-controlled feature and doesn't change the actual dimensions of the viewport as reported to CSS—just how it's rendered to the user. However, you can simulate a "zoomed-in" experience by targeting very small viewport widths, since zooming in reduces the effective viewport size.
+
+Approximation Technique
+To approximate a 400% zoom level, you can assume that the viewport behaves as if it's 1/4 the original size. So if your base design is for a 1440px width screen, then 400% zoom would behave roughly like a screen that's ~360px wide.
+
+Example CSS
+css
+Copy
+Edit
+@media screen and (max-width: 400px) {
+  /* Styles that apply when zoomed to ~400% */
+  body {
+    font-size: 2rem;
+    background-color: lightyellow;
+  }
+
+  .container {
+    padding: 1rem;
+  }
+}
+You can tweak the max-width threshold based on testing. 360–400px is often a good approximation.
+
+
+
+IMAGE PROMPTS
+Can you make a picture of the fool?
+Response: Image
+
+Can you make a picture of the Magician?
+Response: Image
+
+Can you make a picture of the The High Priestess?
+Response: Image
+
+Great now do the Empress
+Response: Image
+
+Great now do the Emperor
+Response: Image
+
+yay! now the Hierophant
+Response: Image
+
+awesome now do the Lovers
+Response: Image
+
+Great now do strength
+Response: Image
+
+Great now do the hermit
+Response: Image
+
+now the The Wheel of Fortune
+Response: Image
+
+now justice
+Response: Image
+
+now the hanged man
+Response: Image
+
+now death 
+Response: Image
+
+now do Temperance
+Response: Image
+
+now do the devil 
+Response: Image
+
+now the tower
+Response: Image
+
+Now the star
+Response: Image
+
+Now do judgment
+Response: Image
+
+Finally do the world!
+Response: Image
+
+
+

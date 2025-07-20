@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+/*all page styles*/ 
+
+body {
+    background: #6a0e48;
+    color: antiquewhite;
+    margin: 70px;
+}
+
+h1 {
+    font-family: 'Poiret One';
+    font-size: 100px;
+}
+    
+h2 {
+    font-family: 'Poiret One';
+    font-size: 50px;
+    margin-top: -15px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+}
+
+p {
+    margin: 20;
+    margin-bottom: 50px;
+}
+
+a {
+    color: antiquewhite;
+}
+
+a:hover {
+    color:hotpink
+}
+
+.nav-link {
+    margin: 30px;
+}
+
+.section-link {
+    margin: 40px;
+}
+
+.nav {
+    margin-top: -75px;
+    margin-right: -70px;
+    margin-bottom: 10px;
+    margin-left: -70px;
+    background: #252c1f;
+    padding: 20px;
+    text-align: center;
+}
+
+.buttons {
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+
+#contrastBtn,
+#animateBtn {
+    font-family: 'Poiret One';
+    background: #252c1f;
+    color: antiquewhite;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 10px;
+}
+
+
+
+.home img { 
+    width:250px;
+    height: auto;
+}
+
+.majar aside img {
+    width: 180px;
+    height: auto;
+    margin-top: -20px;
+}
+
+.home {
+    margin-top: -20px;
+    text-align: center;
+}
+
+.home p {
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+
+.majar section {
+    float: left;
+    width: 63%; 
+    margin-bottom: 200px;
+}
+
+.majar aside {
+    float: right;
+    width: 30%; 
+    margin-right: -30px;
+}
+
+
+.suits-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px
+}
+.suits-container figure{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    margin:0px;
+}
+.suits-container figcaption {
+    margin-bottom: 50px;
+}
+.suits-container img {
+    margin-bottom: 10px;
+    width: 150px;
+    height: auto
+}
+
+
+
+
+
+@media (max-width: 768px) {
+    body {
+        margin: 20px;
+    }
+    h1 {
+        font-size: 80px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    .nav-link {
+        margin: 10px
+    }
+    .nav {
+        margin-top: -20px;
+        margin-right: -20px;
+        margin-left: -20px;
+        margin-bottom: 0px;
+    }
+
+    .majar section {
+        width: 60%;
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+
+    .majar aside {
+        width: 40%;
+        margin: 0px;
+    }
+
+    .suits-container img {
+        margin-bottom: 10px;
+        width: 100px;
+        height: auto
+    }
+}
+
+
+@media screen and (max-width: 400px) {
+    body {
+        margin: 20px;
+    }
+    h1 {
+        font-size: 20px;
+        margin-left: -10px;
+    }
+    h2 {
+        font-size: 10px;
+        margin-bottom: -2px;
+        margin-top: 10px
+    }
+
+    p {
+        font-size: 4px;
+    }
+
+    .nav {
+        margin-top: -20px;
+        margin-bottom: 5px;
+        padding: 0px;
+    }
+
+    .nav-link {
+        margin: 12px;
+        font-size: 4px;
+        line-height: 20px;
+    }
+
+    .suits-container figcaption {
+        font-size: 4px;
+        margin-top: -10px;
+    }
+
+    .suits-container  {
+        gap: 20px;
+        margin-bottom: -40px;
+    }
+    .suits-container img {
+        margin-bottom: 10px;
+        width: 23px; 
+        height: auto
+    }
+
+    .home {
+        margin-top: -10px;
+    }
+
+    .home img {
+        width: 100px; 
+        height: auto;
+        margin-top: -5px;
+        margin-bottom: -15px;
+    }
+
+    .home h2 {
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .home p {
+        margin-top: 0px;
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-bottom: 20px
+    }
+
+    .majar aside img {
+        width: 50px;
+        height: auto;
+        float: right;
+        margin-left: 10;
+    }
+
+    .majar section h2,
+    .majar section p {
+        margin-left: -10px;
+    }
+
+    #contrastBtn, 
+    #animateBtn {
+        padding: 0.5px;
+        margin-top: -30px;
+        font-size: 4px;
+    }
+
+    .buttons {
+        text-align: right;
+        margin-top: -50px;
+        margin-bottom: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+
+}
